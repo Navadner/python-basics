@@ -1,0 +1,7 @@
+what are python's variable naming conventions?
+
+what happens when you assign a value to a variable that has the same named as a built-in function
+
+can variables in python hold different types of values at different times? Show an example
+
+what is the different between local and global variables?
